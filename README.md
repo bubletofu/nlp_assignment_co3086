@@ -2,18 +2,23 @@
 ## Team Members
 
 
+## Overview
+This repository implements experiments with LLaMA 3.1-8B, Phi-4, and LLaMA 3-8B, applying three fine-tuning techniques (LoRA, Adapter, Prompt Tuning) on three NLP tasks.
 
-## Repository Overview
-This repository contains the code and report for the NLP assignment at Ho Chi Minh University of Technology, focusing on Transformer models, their evolution, and fine-tuning techniques.
+## Models
+- LLaMA 3.1-8B: Fine-tuned with LoRA.
+- Phi-4: 
+- LLaMA 3-8B: 
 
-## Setup Instructions
-1. Clone the repository: `git clone <repo_url>`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run setup script: `bash scripts/setup_environment.sh`
+## Setup
+1. Clone: `git clone <repo_url>`
+2. Install: `pip install -r requirements.txt`
+3. Run: `bash scripts/setup_environment.sh`
 
-## Running Experiments
-- Run all experiments: `bash scripts/run_all_experiments.sh`
-- Generate results: `bash scripts/generate_results.sh`
+## Experiments
+- Tasks: 
+- Run: `bash scripts/run_all_experiments.sh`
+- Results: `bash scripts/generate_results.sh`
 
 ## Report
-The report is located in `docs/report/report.pdf`. 
+The report is located in `docs/report/report.pdf`
