@@ -16,7 +16,7 @@ This repository implements experiments with LLaMA 3.1-8B, Phi-4, and LLaMA 3-8B,
 3. Run: `bash scripts/setup_environment.sh`
 
 ## Experiments
-- Tasks: 
+- Tasks: Sentiment analyze, Translation, Summarization
 - Run: `bash scripts/run_all_experiments.sh`
 - Results: `bash scripts/generate_results.sh`
 
